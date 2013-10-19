@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "wastediversionllc.com Statistics"
+AuthUserFile /var/chroot/home/content/22/11221622/html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html
