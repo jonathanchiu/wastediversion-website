@@ -5,3 +5,7 @@ Over the summer of 2013, I briefly interned at a very small start-up called Wast
 #### About
 
 Waste Diversion LLC is a Clinton Global Initiative University 2012 project that has become a business. The business provides waste diversion services (recycling, composting, staffing, planning services, hauling, signs, bins, etc.) to outdoor events.
+
+Here's a quick snapshot of what the homepage currently looks like:
+
+![homepage](http://i.gyazo.com/1729657a9ee8e8c9525c16bcd9ee5ff7.png)
